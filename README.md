@@ -32,4 +32,4 @@ SmartCampus is a platform to streamline student services across campus: advising
 3. `docker compose up -d`
 4. Connect to DB: host `localhost`, port `3306`, user `sc_admin`, password `sc_admin123`, database `smartcampus_db`.
 
-## Deliverable submission
+
